@@ -1,1 +1,3 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+So that, just in case something happens to your local work, you have a backup online that is safe and ready to go.
