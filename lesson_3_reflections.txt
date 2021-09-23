@@ -8,3 +8,8 @@ Describe the differences between forks, clones, and branches. When would you use
 Forks are duplications of repositories on github. 
 Clones are duplications of repositories from github to local and between locals.
 Branches are changes made within a repository but are separate versions.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can make sure you are fully up-to-date between versions of the code.
