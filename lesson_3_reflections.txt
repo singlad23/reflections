@@ -19,3 +19,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 We would just share a computer and work in person. Collaboration and the speed of the project would definitely go faster as we can have
 in-person discussions about what to do. The only problem is that meeting in-person is not always easily accessible and therefore it would be hard to always do.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+It's better to create a separate branch for changes because then if you make a mistake or do something wrong you do not risk the
+integrity of the project as whole and you can easily just revert changes. It's also nice to know that any change you make won't affect the project
+in a negative way. A good way to know when to make changes is when you are about to do some major change to the project (like add some new feature)
+that has the potential of causing bugs that could damage the entirety of the project.
