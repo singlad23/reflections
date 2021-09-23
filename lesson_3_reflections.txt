@@ -13,3 +13,9 @@ Branches are changes made within a repository but are separate versions.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can make sure you are fully up-to-date between versions of the code.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+We would just share a computer and work in person. Collaboration and the speed of the project would definitely go faster as we can have
+in-person discussions about what to do. The only problem is that meeting in-person is not always easily accessible and therefore it would be hard to always do.
